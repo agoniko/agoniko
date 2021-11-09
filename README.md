@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-##snake eating my contributions
 ![snake gif](https://github.com/agoniko/agoniko/blob/output/github-contribution-grid-snake.gif)
 
 <!--
