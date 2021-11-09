@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+##snake eating my contributions
+![snake gif](https://github.com/agoniko/agoniko/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **agoniko/agoniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
