@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-### My contributions
+## My contributions
+This is a little snake game that eat all my contributions of the past year!
+I created it using this repository https://github.com/Platane/snk
 ![snake gif](https://github.com/agoniko/agoniko/blob/output/github-contribution-grid-snake.svg)
 
 ## About me
