@@ -6,11 +6,9 @@ I created it using this repository https://github.com/Platane/snk
 ![snake gif](https://github.com/agoniko/agoniko/blob/output/github-contribution-grid-snake.svg)
 
 ## About me
-- :books: I'm currently in my final year of the Bsc of computer science at Università degli studi di Milano
-- :brain: I'm currently learning some Machine Learning in python, i think that i'll continue my studies in this field... we will see.
-- :scientist: I'm doing a traineeship where i'm doing my university thesis about an NLP project that is running on the Google Cloud Platform
-- :red_car: I'm interested in the computer vision field, still making my first projects
-- 🔭 Still looking for a good Msc to continue my studies
+- :brain: BSc of computer science at Università degli studi di Milano
+- :books: My BSc Thesis is "AI Algorithms for the optimization of CMS", it mostly talks abount NLP method for text classification and text similarity algorithms.
+- :scientist: Currently doing an MSc in Artificial Intelligence with a specialization in AI for Embedded systems
 
 
 <!--
