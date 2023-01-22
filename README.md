@@ -7,7 +7,7 @@ I created it using this repository https://github.com/Platane/snk
 
 ## About me
 - :brain: BSc of computer science at Università degli studi di Milano
-- :books: My BSc Thesis is "AI Algorithms for the optimization of CMS", it mostly talks abount NLP method for text classification and text similarity algorithms.
+- :books: My BSc Thesis is "AI Algorithms for the optimization of CMS", it mostly talks about NLP methods for text classification and text similarity algorithms.
 - :scientist: Currently doing an MSc in Artificial Intelligence with a specialization in AI for Embedded systems
 
 
