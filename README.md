@@ -1,10 +1,5 @@
 # Hi there 👋
 
-## My contributions
-This is a little snake game that eat all my contributions of the past year!
-I created it using this repository https://github.com/Platane/snk
-![snake gif](https://github.com/agoniko/agoniko/blob/output/github-contribution-grid-snake-dark.svg)
-
 ## About me
 - :brain: BSc of computer science at Università degli studi di Milano
 - :books: My BSc Thesis is "AI Algorithms for the optimization of CMS", it mostly talks about NLP methods for text classification and text similarity algorithms.
@@ -25,3 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## My contributions
+This is a little snake game that eat all my contributions of the past year!
+I created it using this repository https://github.com/Platane/snk
+![snake gif](https://github.com/agoniko/agoniko/blob/output/github-contribution-grid-snake-dark.svg)
+
